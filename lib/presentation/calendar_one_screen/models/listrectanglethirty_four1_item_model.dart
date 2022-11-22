@@ -1,0 +1,1 @@
+class ListrectanglethirtyFour1ItemModel {}
